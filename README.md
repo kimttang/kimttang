@@ -7,7 +7,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+    <div  align= "center"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
@@ -23,7 +23,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
